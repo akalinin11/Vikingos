@@ -1,6 +1,8 @@
 
-test "testX" {
+describe "Subirse a una expedicion" {
 
-	assert.that(true)
 
 }
+	test "Tito se sube a una expedicion"{
+
+	}
